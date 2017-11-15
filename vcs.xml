@@ -18,6 +18,10 @@
           <option name="url" value="git@github.com:INF2015-H16/mockproject.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/INF2015-H16/mockproject.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Google Drive\UQAM\INF2015\Labo" />
