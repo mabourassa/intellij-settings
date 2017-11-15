@@ -15,7 +15,7 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/INF2015-H16/mockproject.git" />
+          <option name="url" value="git@github.com:INF2015-H16/mockproject.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
