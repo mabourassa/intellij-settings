@@ -22,8 +22,12 @@
           <option name="url" value="https://github.com/INF2015-H16/mockproject.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/seglo/cofoja-example.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Google Drive\UQAM\INF2015\Labo" />
+    <option name="cloneParentDir" value="C:\Google Drive\UQAM\INF3143" />
   </component>
 </application>
