@@ -6,7 +6,7 @@
       <file name="/Dummy.txt" timestamp="1512409252925">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Google Drive/UQAM/INF2015/Projet session/A17-Team2/tests/TransfertJavaAJsonTest.java" timestamp="1512409378594" />
+      <file name="C:/Google Drive/UQAM/INF2015/Projet session/A17-Team2/tests/TransfertJavaAJsonTest.java" timestamp="1512409419014" />
       <file name="/fragment.java" timestamp="1512409252956">
         <mark key="[" line="0" column="0" />
       </file>
@@ -24,6 +24,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
