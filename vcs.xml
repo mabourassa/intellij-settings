@@ -26,12 +26,8 @@
           <option name="url" value="https://github.com/seglo/cofoja-example.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="git@github.com:bouhrassa/BattleShip.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Google Drive\UQAM" />
+    <option name="cloneParentDir" value="C:\Users\Laptop-Marc\Desktop" />
   </component>
 </application>
