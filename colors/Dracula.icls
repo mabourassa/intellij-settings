@@ -1,8 +1,5 @@
 <scheme name="Dracula" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.0" />
-  <option name="LINE_SPACING" value="1.5" />
-  <option name="EDITOR_FONT_SIZE" value="9" />
-  <option name="EDITOR_FONT_NAME" value="Monospaced" />
+  <option name="LINE_SPACING" value="1.1" />
   <colors>
     <option name="CARET_COLOR" value="cccccc" />
     <option name="CARET_ROW_COLOR" value="44475a" />
