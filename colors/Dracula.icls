@@ -1,10 +1,5 @@
 <scheme name="Dracula" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.25" />
-  <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="18" />
-  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-  <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
-  <option name="CONSOLE_LINE_SPACING" value="1.2" />
+  <option name="LINE_SPACING" value="1.1" />
   <colors>
     <option name="CARET_COLOR" value="cccccc" />
     <option name="CARET_ROW_COLOR" value="44475a" />
@@ -398,13 +393,11 @@
         <option name="FOREGROUND" value="50fa7b" />
       </value>
     </option>
-    <option name="HAML_COMMENT" baseAttributes="DEFAULT_DOC_COMMENT" />
     <option name="HAML_ID">
       <value>
         <option name="FOREGROUND" value="50fa7b" />
       </value>
     </option>
-    <option name="HAML_RUBY_CODE" baseAttributes="INJECTED_LANGUAGE_FRAGMENT" />
     <option name="HAML_TAG">
       <value>
         <option name="FOREGROUND" value="f8f8f2" />
@@ -412,7 +405,6 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
-    <option name="HAML_TEXT" baseAttributes="TEXT" />
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
         <option name="FOREGROUND" value="50fa7b" />
